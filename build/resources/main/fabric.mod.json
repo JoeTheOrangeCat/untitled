@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "kickwhenlow",
+  "version": "1.0",
+  "name": "Auto Leave",
+  "description": "",
+  "authors": [],
+
+  "contact": {
+    "repo": "https://github.com/gmans/untitled"
+  },
+  "mixins": [
+    "modid.mixins.json"
+  ],
+  "license": "All-Rights-Reserved",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "auto.leave.kickwhenlow.client.AutoLeaveClient"
+    ],
+    "main": [
+      "auto.leave.kickwhenlow.AutoLeave"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.14.11",
+    "fabric-api": "*",
+    "minecraft": "~1.21",
+    "java": ">=21"
+  }
+}

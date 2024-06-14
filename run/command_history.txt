@@ -1,0 +1,21 @@
+/give Player696 minecraft:poisonous_potato
+/effect give Player187 minecraft:regeneration 7 255
+/give Player696 minecraft:poisonous_potato
+/give Player187 minecraft:poisonous_potato
+/effect give Player221 minecraft:poison
+/fcc
+/fcc help
+/startkicking
+/kickat 1
+/effect give Player221 minecraft:poison 2 255
+/effect give Player616 minecraft:poison 2 255
+/effect give Player616 minecraft:poison 20 255
+/kickat 1
+/startkicking
+/kickat 4
+/effect give Player707 minecraft:regeneration 1 1
+/effect give Player707 minecraft:regeneration 1 5
+/kickat 1
+/startkicking
+/effect give Player616 minecraft:poison 20 255
+/effect give Player707 minecraft:poison 20 255
