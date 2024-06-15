@@ -1,12 +1,12 @@
 {
   "required": true,
   "minVersion": "0.8",
-  "package": "auto.leave.kickwhenlow.mixin",
+  "package": "auto.leave.autoleave.mixin",
   "compatibilityLevel": "JAVA_21",
   "mixins": [
   ],
   "client": [
-    "ChatThingMixin"
+    "ClientPlayerMixin"
   ],
   "injectors": {
     "defaultRequire": 1
