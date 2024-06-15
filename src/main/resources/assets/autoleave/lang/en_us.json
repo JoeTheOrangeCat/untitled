@@ -1,0 +1,11 @@
+{
+  "yacl3.config.auto_leave:config.doAutoLeave": "Enable Auto Leave",
+  "yacl3.config.auto_leave:config.doAutoLeave.desc": "Automatically leaves when your health is lower than the threshold \n \n You can also toggle this using /toggleautoleave",
+
+  "yacl3.config.auto_leave:config.leaveAt": "Auto Leave Health Threshold",
+  "yacl3.config.auto_leave:config.leaveAt.desc": "The health threshold for the above option. \n \n You can also change this by the command /autoleaveat",
+
+  "yacl3.config.auto_leave:config.category.autoleave": "Auto Leave Settings",
+
+  "autoleave.low_health.disconnect": "[Autoleave] Auto quit because your health was below the threshold!"
+}
